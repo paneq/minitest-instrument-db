@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "minitest-instrument-db"
   s.version     = Minitest::Instrument::Db::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Robert Pankowecki"]
+  s.email       = ["robert.pankowecki@gmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Store information about speed of test execution provided by minitest-instrument in database}
+  s.description = %q{Store information about speed of test execution provided by minitest-instrument in database}
 
   s.rubyforge_project = "minitest-instrument-db"
 
